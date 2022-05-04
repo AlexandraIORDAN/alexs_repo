@@ -1,5 +1,5 @@
 import java.security.NoSuchAlgorithmException;
-
+import com.hashing.password.demo.bcrypt.*;
 public class BcryptHashingExample
 {
     public static void main(String[] args) throws NoSuchAlgorithmException
